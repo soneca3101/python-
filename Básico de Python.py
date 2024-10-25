@@ -7,7 +7,6 @@ docString - não é comentário mas é usado com um
 
 # AULA 02
 
-
 separadores
 \r\n - quebra a linha qlqr windows
 \n - quebra a linha qlqr windows 11
